@@ -11,8 +11,22 @@ body  {
     margin: 0;
 }
 
-.container{
+.container {
     display: flex;
     width: 90vw;
-    
 }
+
+.panel {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    border-radius: 50px;
+    color: black;
+    cursor: pointer;
+    flex: 1;
+    margin: 10px;
+    position: relative;
+
+}
+
