@@ -1,0 +1,58 @@
+Script started on 2026-03-11 08:55:26-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="99" LINES="9"]
+/workspaces/web/ $ s[Kcd c[Kscript
+/workspaces/web/script/ $ code sound.jss[K
+/workspaces/web/script/ $ cd ..
+/workspaces/web/ $ s[Kcd style
+/workspaces/web/style/ $ [K/workspaces/web/style/ $ [K/workspaces/web/style/ $ wget http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+--2026-03-11 09:21:58--  http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+Resolving mrmaresh.com (mrmaresh.com)... 67.205.29.145
+Connecting to mrmaresh.com (mrmaresh.com)|67.205.29.145|:80... failed: Connection timed out.
+Retrying.
+
+--2026-03-11 09:24:15--  (try: 2)  http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+Connecting to mrmaresh.com (mrmaresh.com)|67.205.29.145|:80... unzip sounds.zip
+^[[A^[[A^Z
+[1]+  Stopped                 wget http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+/workspaces/web/style/ $ wget http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd style[Kwget http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+--2026-03-11 09:24:41--  http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+Resolving mrmaresh.com (mrmaresh.com)... 67.205.29.145
+Connecting to mrmaresh.com (mrmaresh.com)|67.205.29.145|:80... ^[[A^[[A^Z
+[2]+  Stopped                 wget http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+/workspaces/web/style/ $ wget http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+--2026-03-11 09:24:49--  http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+Resolving mrmaresh.com (mrmaresh.com)... 67.205.29.145
+Connecting to mrmaresh.com (mrmaresh.com)|67.205.29.145|:80... unzip sounds.zip
+^[[A^[[A^Z
+[3]+  Stopped                 wget http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+/workspaces/web/style/ $ wget http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd style[Kwget http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd style[Kwget http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+--2026-03-11 09:25:13--  http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+Resolving mrmaresh.com (mrmaresh.com)... 67.205.29.145
+Connecting to mrmaresh.com (mrmaresh.com)|67.205.29.145|:80... wget http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+^Z
+[4]+  Stopped                 wget http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+/workspaces/web/style/ $ unzip sounds.zip
+unzip:  cannot find or open sounds.zip, sounds.zip.zip or sounds.zip.ZIP.
+/workspaces/web/style/ $ wget http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+--2026-03-11 09:26:04--  http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+Resolving mrmaresh.com (mrmaresh.com)... 67.205.29.145
+Connecting to mrmaresh.com (mrmaresh.com)|67.205.29.145|:80... failed: Connection timed out.
+Retrying.
+
+--2026-03-11 09:28:21--  (try: 2)  http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+Connecting to mrmaresh.com (mrmaresh.com)|67.205.29.145|:80... failed: Connection timed out.
+Retrying.
+
+--2026-03-11 09:30:37--  (try: 3)  http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+Connecting to mrmaresh.com (mrmaresh.com)|67.205.29.145|:80... failed: Connection timed out.
+Retrying.
+
+--2026-03-11 09:32:53--  (try: 4)  http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+Connecting to mrmaresh.com (mrmaresh.com)|67.205.29.145|:80... failed: Connection timed out.
+Retrying.
+
+--2026-03-11 09:35:14--  (try: 5)  http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+Connecting to mrmaresh.com (mrmaresh.com)|67.205.29.145|:80... failed: Connection timed out.
+Retrying.
+
+--2026-03-11 09:37:34--  (try: 6)  http://mrmaresh.com/wp-content/uploads/2023/02/sounds.zip
+Connecting to mrmaresh.com (mrmaresh.com)|67.205.29.145|:80... fail
