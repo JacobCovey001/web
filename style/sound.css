@@ -10,7 +10,9 @@ body {
     margin = 0;
 }
 
-btn {
-    .
+.btn {
+    background: blue;
+    color: white;
+    margin: 1rem;
 }
 
