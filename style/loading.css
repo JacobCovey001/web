@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Ubuntu', sans-serif;
     display: flex;
@@ -7,6 +11,7 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
+    overflow: hidden;
 }
 
 .bg {
@@ -15,15 +20,13 @@ body {
     left: 0;
     width: 100vw;
     height: 100vh;
+    background: url('images/nature.jpg') no-repeat center center/cover;
     z-index: -1;
-    background-image: url('images/nature.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
     filter: blur(30px);
 }
 
 .loading-text {
     font-size: 50px;
     color: white;
+    z-index: 1;
 }
