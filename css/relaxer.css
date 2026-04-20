@@ -6,7 +6,7 @@
 
 body {
     background-color: #224941;
-    background: url('../images/water1.avif') no-repeat center center/cover;
+    background: url('images/water1.avif') no-repeat center center/cover;
     color: white;
     font-family: 'Montserrat', sans-serif;
     height: 100vh;
